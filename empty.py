@@ -1,1 +1,1 @@
-other_words_experimental = ["djksgjkdgk", "kdfjglkgkdfgk", "kasdkladsklsadklasd", "jkawrjksfkajsfkjasf", "asfkasfaf"]
+other_words_experimental = ["djksgjkdgk", "kdfjglkgkdfgk", "kasdkladsklsadklasd", "asfkasfaf"]
